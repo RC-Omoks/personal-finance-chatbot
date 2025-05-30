@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtualenvs
+.venv/
+env/
+venv/
+
+# dotenv secret file
+.env
+
+# macOS and editor cruft
+.DS_Store
+*.swp
